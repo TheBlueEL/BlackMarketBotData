@@ -15,7 +15,7 @@
   "Gamepass #2": {
     "Name": "Buyer #2",
     "Description": "This is a gamepass for buyer #2",
-    "Price": 2,
+    "Price": 1,
     "Image": "https://raw.githubusercontent.com/TheBlueEL/pictures/refs/heads/main/JailbreakBlackMarket.png",
     "UniverseId": "6111131246",
     "GamepassId": 1479850855,
