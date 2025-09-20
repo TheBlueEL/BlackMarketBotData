@@ -18,9 +18,11 @@
     "Price": 2,
     "Image": "https://raw.githubusercontent.com/TheBlueEL/pictures/refs/heads/main/JailbreakBlackMarket.png",
     "UniverseId": "6111131246",
-    "GamepassId": null,
-    "Created": false,
+    "GamepassId": 1479850855,
+    "Created": true,
     "Buyed": false,
-    "UsernameID": 84890796
+    "UsernameID": 84890796,
+    "Activated": true,
+    "date": "2025-09-20T15:20:08.406Z"
   }
 }
